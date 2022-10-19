@@ -91,7 +91,7 @@
         },
         {
             "tag": "mobile",
-            "patterns": ["What is your favourite mobile comapny?", "Which mobile do you use?","What is the cost of your mobile?","Do you like ios or android?"],
+            "patterns": ["What is your favourite mobile ?", "Which mobile do you use?","What is the cost of your mobile?","Do you like ios or android?"],
             "responses": ["iPhone","iPhone","25,000", "ios"],
             "context_set": ""
         },
