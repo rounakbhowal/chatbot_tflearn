@@ -83,5 +83,17 @@
             "responses": ["The Blue basket in Wallmart", "10$"],
             "context_set": ""
         },
+        {
+            "tag": "travel",
+            "patterns": ["What is your favourite place to travel?", "How many countries you have been?","What is the best about travelling?","When did you first travel?"],
+            "responses": ["Dubai","3","food", "2004"],
+            "context_set": ""
+        },
+        {
+            "tag": "mobile",
+            "patterns": ["What is your favourite mobile comapny?", "Which mobile do you use?","What is the cost of your mobile?","Do you like ios or android?"],
+            "responses": ["iPhone","iPhone","25,000", "ios"],
+            "context_set": ""
+        },
     ]
 }
